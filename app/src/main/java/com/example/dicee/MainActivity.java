@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //checking android studio commit
-        
+
         Button rollButton = findViewById(R.id.rollButton);
         final ImageView leftDice = findViewById(R.id.leftDice);
         final ImageView rightDice = findViewById(R.id.rightDice);
